@@ -1,7 +1,6 @@
 # L02Project
 Sport Management System
 
-This is our second year software project(L2).it received for us by Mr. Darmendra Aththanayake in Mutants International Company at Dehiwala. 
 This is our second-year software project(L2).it received from us by Mr. Darmendra Aththanayake in Mutants International Company at Dehiwala. I got a lot of experience by developing this. we directed by Dr. Sagara Sumathipala, who is a lecture at the Faculty of Information Technology,  University of Moratuwa.
 
 Sports Management System Sports Management System for the players based on a team supports to update all their performances through this system.
